@@ -38,6 +38,11 @@ RealEstate-RERA-PowerBI-Dashboard/
 ![Dashboard Screenshot](./Screenshots/page1.png)
 ![Dashboard Screenshot](./Screenshots/page2.png)
 
+## 📂 Dataset and Report  
+- Sample Data: `Data/real_estate_data.csv`  
+- Power BI Dashboard file: [Download Dashboard.pbix]([https://drive.google.com/file/d/1AbCdEfGhIjKlMnOpQrStUvWxYz/view?usp=sharing](https://drive.google.com/file/d/14HZFU9g-flyeWdU8sPTo_4P5rEFVfkLJ/view?usp=sharing))
+
+
 ## 📋 Notes
 - No separate report file included.
 - Designed for real estate analysis using RERA (Real Estate Regulatory Authority) data.
