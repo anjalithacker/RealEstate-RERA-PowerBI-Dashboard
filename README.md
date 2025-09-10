@@ -35,8 +35,8 @@ RealEstate-RERA-PowerBI-Dashboard/
 3. Explore interactive visualizations and filters.
 
 ## 📸 Screenshot  
-![Dashboard Screenshot](./page 1.png)
-![Dashboard Screenshot](./page 2.png)
+![Dashboard Screenshot](./page1.png)
+![Dashboard Screenshot](./page2.png) 
 
 ## 📂 Dataset and Report  
 - Sample Data: `Data/real_estate_data.csv`  
